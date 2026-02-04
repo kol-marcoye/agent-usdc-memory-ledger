@@ -1,0 +1,11 @@
+[
+  {
+    "from_agent": "AgentB",
+    "to_agent": "AgentA",
+    "amount": 5,
+    "currency": "USDC",
+    "task": "news_summarization",
+    "accounting_category": "outsourced_service_cost",
+    "timestamp": "2026-02-05T02:10:00Z"
+  }
+]
